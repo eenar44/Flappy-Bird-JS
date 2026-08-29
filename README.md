@@ -1,7 +1,7 @@
 # Flappy Bird Clone
 A browser-based recreation of Flappy Bird, built with Java Script and HTML5 Canvas API.
 
-<img width="800" height="1200" alt="flappy_bird_gif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0c33422c-e7bd-42cb-8837-e67580a1a988" />
+<img width="400" height="600" alt="flappy_bird_gif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0c33422c-e7bd-42cb-8837-e67580a1a988" />
 
 ## Features
 * Custom physics - gravity, jump velocity, and collision all handled manually, frame-by-frame
